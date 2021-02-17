@@ -1,13 +1,11 @@
 *{
 	box-sizing: content-box;
-}
-
-.plant-parenthood-container{
 	max-width: 375px;
 	max-height: 667px;
 	margin: 0 auto;
 	position: relative;
 }
+
 
 .plant-parenthood{
 	position: absolute;
@@ -54,4 +52,85 @@
 	height: 62px;
 	left: 54px;
 	top: 538px;
+}
+
+ .left-leaf{
+	position: absolute;
+	width: 43.18px;
+	height: 30px;
+	left: 38px;
+	top: 16px;
+}
+
+
+.title p{
+	position: absolute;
+	width: 211px;
+	height: 46px;
+	left: 82px;
+	top: 16px;
+
+	font-family: Lora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 38px;
+	text-align: center;
+}
+
+.right-leaf{
+	position: absolute;
+	width: 43.18px;
+	height: 30px;
+	left: 299px;
+	top: 16px;
+}
+
+.back-button{
+	position: absolute;
+	width: 47px;
+	height: 44px;
+	left: 9px;
+	top: 86px;
+}
+
+
+.edit-button{
+	position: absolute;
+	width: 70px;
+	height: 35px;
+	left: 299px;
+	top: 90px;
+
+}
+
+h2 {
+	position: absolute;
+	width: 176px;
+	height: 29.93px;
+	left: 117px;
+	top: 142.97px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+
+}
+
+.stripes p{
+	position: absolute;
+	width: 176px;
+	height: 59.87px;
+	left: 120px;
+	top: 171.91px;
+
+	font-family: Lora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1px;
+	line-height: 19px;
+}
+
+.stripes-rectangle-button{
+	margin-top: -500px;
 }
